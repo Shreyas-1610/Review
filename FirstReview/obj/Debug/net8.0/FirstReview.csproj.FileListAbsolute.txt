@@ -1,0 +1,14 @@
+C:\Users\kshre\source\repos\FirstReview\FirstReview\bin\Debug\net8.0\FirstReview.exe
+C:\Users\kshre\source\repos\FirstReview\FirstReview\bin\Debug\net8.0\FirstReview.deps.json
+C:\Users\kshre\source\repos\FirstReview\FirstReview\bin\Debug\net8.0\FirstReview.runtimeconfig.json
+C:\Users\kshre\source\repos\FirstReview\FirstReview\bin\Debug\net8.0\FirstReview.dll
+C:\Users\kshre\source\repos\FirstReview\FirstReview\bin\Debug\net8.0\FirstReview.pdb
+C:\Users\kshre\source\repos\FirstReview\FirstReview\obj\Debug\net8.0\FirstReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshre\source\repos\FirstReview\FirstReview\obj\Debug\net8.0\FirstReview.AssemblyInfoInputs.cache
+C:\Users\kshre\source\repos\FirstReview\FirstReview\obj\Debug\net8.0\FirstReview.AssemblyInfo.cs
+C:\Users\kshre\source\repos\FirstReview\FirstReview\obj\Debug\net8.0\FirstReview.csproj.CoreCompileInputs.cache
+C:\Users\kshre\source\repos\FirstReview\FirstReview\obj\Debug\net8.0\FirstReview.dll
+C:\Users\kshre\source\repos\FirstReview\FirstReview\obj\Debug\net8.0\refint\FirstReview.dll
+C:\Users\kshre\source\repos\FirstReview\FirstReview\obj\Debug\net8.0\FirstReview.pdb
+C:\Users\kshre\source\repos\FirstReview\FirstReview\obj\Debug\net8.0\FirstReview.genruntimeconfig.cache
+C:\Users\kshre\source\repos\FirstReview\FirstReview\obj\Debug\net8.0\ref\FirstReview.dll
