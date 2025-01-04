@@ -1,0 +1,14 @@
+C:\Users\kshre\source\repos\SecondReview\SecondReview\bin\Debug\net8.0\SecondReview.exe
+C:\Users\kshre\source\repos\SecondReview\SecondReview\bin\Debug\net8.0\SecondReview.deps.json
+C:\Users\kshre\source\repos\SecondReview\SecondReview\bin\Debug\net8.0\SecondReview.runtimeconfig.json
+C:\Users\kshre\source\repos\SecondReview\SecondReview\bin\Debug\net8.0\SecondReview.dll
+C:\Users\kshre\source\repos\SecondReview\SecondReview\bin\Debug\net8.0\SecondReview.pdb
+C:\Users\kshre\source\repos\SecondReview\SecondReview\obj\Debug\net8.0\SecondReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshre\source\repos\SecondReview\SecondReview\obj\Debug\net8.0\SecondReview.AssemblyInfoInputs.cache
+C:\Users\kshre\source\repos\SecondReview\SecondReview\obj\Debug\net8.0\SecondReview.AssemblyInfo.cs
+C:\Users\kshre\source\repos\SecondReview\SecondReview\obj\Debug\net8.0\SecondReview.csproj.CoreCompileInputs.cache
+C:\Users\kshre\source\repos\SecondReview\SecondReview\obj\Debug\net8.0\SecondReview.dll
+C:\Users\kshre\source\repos\SecondReview\SecondReview\obj\Debug\net8.0\refint\SecondReview.dll
+C:\Users\kshre\source\repos\SecondReview\SecondReview\obj\Debug\net8.0\SecondReview.pdb
+C:\Users\kshre\source\repos\SecondReview\SecondReview\obj\Debug\net8.0\SecondReview.genruntimeconfig.cache
+C:\Users\kshre\source\repos\SecondReview\SecondReview\obj\Debug\net8.0\ref\SecondReview.dll
