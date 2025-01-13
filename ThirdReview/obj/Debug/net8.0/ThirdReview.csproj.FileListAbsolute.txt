@@ -1,0 +1,14 @@
+C:\Users\kshre\source\repos\ThirdReview\ThirdReview\bin\Debug\net8.0\ThirdReview.exe
+C:\Users\kshre\source\repos\ThirdReview\ThirdReview\bin\Debug\net8.0\ThirdReview.deps.json
+C:\Users\kshre\source\repos\ThirdReview\ThirdReview\bin\Debug\net8.0\ThirdReview.runtimeconfig.json
+C:\Users\kshre\source\repos\ThirdReview\ThirdReview\bin\Debug\net8.0\ThirdReview.dll
+C:\Users\kshre\source\repos\ThirdReview\ThirdReview\bin\Debug\net8.0\ThirdReview.pdb
+C:\Users\kshre\source\repos\ThirdReview\ThirdReview\obj\Debug\net8.0\ThirdReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshre\source\repos\ThirdReview\ThirdReview\obj\Debug\net8.0\ThirdReview.AssemblyInfoInputs.cache
+C:\Users\kshre\source\repos\ThirdReview\ThirdReview\obj\Debug\net8.0\ThirdReview.AssemblyInfo.cs
+C:\Users\kshre\source\repos\ThirdReview\ThirdReview\obj\Debug\net8.0\ThirdReview.csproj.CoreCompileInputs.cache
+C:\Users\kshre\source\repos\ThirdReview\ThirdReview\obj\Debug\net8.0\ThirdReview.dll
+C:\Users\kshre\source\repos\ThirdReview\ThirdReview\obj\Debug\net8.0\refint\ThirdReview.dll
+C:\Users\kshre\source\repos\ThirdReview\ThirdReview\obj\Debug\net8.0\ThirdReview.pdb
+C:\Users\kshre\source\repos\ThirdReview\ThirdReview\obj\Debug\net8.0\ThirdReview.genruntimeconfig.cache
+C:\Users\kshre\source\repos\ThirdReview\ThirdReview\obj\Debug\net8.0\ref\ThirdReview.dll
