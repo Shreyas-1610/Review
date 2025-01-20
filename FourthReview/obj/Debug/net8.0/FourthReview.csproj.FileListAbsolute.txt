@@ -1,0 +1,17 @@
+C:\Users\kshre\source\repos\FourthReview\FourthReview\obj\Debug\net8.0\FourthReview.csproj.AssemblyReference.cache
+C:\Users\kshre\source\repos\FourthReview\FourthReview\obj\Debug\net8.0\FourthReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshre\source\repos\FourthReview\FourthReview\obj\Debug\net8.0\FourthReview.AssemblyInfoInputs.cache
+C:\Users\kshre\source\repos\FourthReview\FourthReview\obj\Debug\net8.0\FourthReview.AssemblyInfo.cs
+C:\Users\kshre\source\repos\FourthReview\FourthReview\obj\Debug\net8.0\FourthReview.csproj.CoreCompileInputs.cache
+C:\Users\kshre\source\repos\FourthReview\FourthReview\bin\Debug\net8.0\FourthReview.exe
+C:\Users\kshre\source\repos\FourthReview\FourthReview\bin\Debug\net8.0\FourthReview.deps.json
+C:\Users\kshre\source\repos\FourthReview\FourthReview\bin\Debug\net8.0\FourthReview.runtimeconfig.json
+C:\Users\kshre\source\repos\FourthReview\FourthReview\bin\Debug\net8.0\FourthReview.dll
+C:\Users\kshre\source\repos\FourthReview\FourthReview\bin\Debug\net8.0\FourthReview.pdb
+C:\Users\kshre\source\repos\FourthReview\FourthReview\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\kshre\source\repos\FourthReview\FourthReview\obj\Debug\net8.0\FourthRe.B652CC67.Up2Date
+C:\Users\kshre\source\repos\FourthReview\FourthReview\obj\Debug\net8.0\FourthReview.dll
+C:\Users\kshre\source\repos\FourthReview\FourthReview\obj\Debug\net8.0\refint\FourthReview.dll
+C:\Users\kshre\source\repos\FourthReview\FourthReview\obj\Debug\net8.0\FourthReview.pdb
+C:\Users\kshre\source\repos\FourthReview\FourthReview\obj\Debug\net8.0\FourthReview.genruntimeconfig.cache
+C:\Users\kshre\source\repos\FourthReview\FourthReview\obj\Debug\net8.0\ref\FourthReview.dll

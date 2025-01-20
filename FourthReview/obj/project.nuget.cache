@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "jIO92+9Wsdg=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kshre\\source\\repos\\FourthReview\\FourthReview\\FourthReview.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kshre\\.nuget\\packages\\csvhelper\\33.0.1\\csvhelper.33.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
