@@ -1,0 +1,14 @@
+C:\Users\kshre\source\repos\FifthReview\FifthReview\bin\Debug\net8.0\FifthReview.exe
+C:\Users\kshre\source\repos\FifthReview\FifthReview\bin\Debug\net8.0\FifthReview.deps.json
+C:\Users\kshre\source\repos\FifthReview\FifthReview\bin\Debug\net8.0\FifthReview.runtimeconfig.json
+C:\Users\kshre\source\repos\FifthReview\FifthReview\bin\Debug\net8.0\FifthReview.dll
+C:\Users\kshre\source\repos\FifthReview\FifthReview\bin\Debug\net8.0\FifthReview.pdb
+C:\Users\kshre\source\repos\FifthReview\FifthReview\obj\Debug\net8.0\FifthReview.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\kshre\source\repos\FifthReview\FifthReview\obj\Debug\net8.0\FifthReview.AssemblyInfoInputs.cache
+C:\Users\kshre\source\repos\FifthReview\FifthReview\obj\Debug\net8.0\FifthReview.AssemblyInfo.cs
+C:\Users\kshre\source\repos\FifthReview\FifthReview\obj\Debug\net8.0\FifthReview.csproj.CoreCompileInputs.cache
+C:\Users\kshre\source\repos\FifthReview\FifthReview\obj\Debug\net8.0\FifthReview.dll
+C:\Users\kshre\source\repos\FifthReview\FifthReview\obj\Debug\net8.0\refint\FifthReview.dll
+C:\Users\kshre\source\repos\FifthReview\FifthReview\obj\Debug\net8.0\FifthReview.pdb
+C:\Users\kshre\source\repos\FifthReview\FifthReview\obj\Debug\net8.0\FifthReview.genruntimeconfig.cache
+C:\Users\kshre\source\repos\FifthReview\FifthReview\obj\Debug\net8.0\ref\FifthReview.dll
